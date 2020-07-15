@@ -1,0 +1,7 @@
+[package]
+name = "sturgeon"
+version = "0.1.0"
+authors = ["Michael Wilson <mewil@umich.edu>"]
+edition = "2018"
+
+[dependencies]
